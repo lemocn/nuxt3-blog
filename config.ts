@@ -7,11 +7,11 @@ export default {
 
   /** -------------------------------------------------以下可选修改----------------------------------------------------- */
 
-  title: "yun yu yuan",                                        // 网站标题
-  nickName: "云与原",                                          // 昵称
-  domain: "https://blog.yunyuyuan.net",                        // rss域名
-  SEO_title: " - yunyuyuan blog",                              // 搜索引擎显示的标题
-  SEO_keywords: "yunyuyuan,yunyuyuan's blog,云与原,云与原的博客", // keywords meta header
+  title: "Le漠の博客",                                        // 网站标题
+  nickName: "Le漠",                                          // 昵称
+  domain: "https://blog.2cy.top",                        // rss域名
+  SEO_title: "Lemo's blog",                              // 搜索引擎显示的标题
+  SEO_keywords: "lemo,lemo's blog,Le漠,Le漠の博客", // keywords meta header
   MSClarityId: "",                                             // Microsoft的Clarity统计，https://clarity.microsoft.com/
   CloudflareAnalyze: "",                                       // cloudflare的统计，https://developers.cloudflare.com/analytics/web-analytics
   CommentRepoId: "",                                           // https://giscus.app/zh-CN
